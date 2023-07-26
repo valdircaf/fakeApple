@@ -1,18 +1,18 @@
 {
   "ip14ProColors": [
-    { "color1": "Roxo-Profundo", "hex": "#655C6F" },
-    { "color2": "Dourado", "hex": "#F4E8CE" },
-    { "color3": "Prateado", "hex": "#F1F3F2" },
-    { "color4": "Preto-Espacial", "hex": "#43413F" }
+    { "color": "Roxo-Profundo", "hex": "#655C6F" },
+    { "color": "Dourado", "hex": "#F4E8CE" },
+    { "color": "Prateado", "hex": "#F1F3F2" },
+    { "color": "Preto-Espacial", "hex": "#43413F" }
   ],
   "ip14ProPrice": [{ "price": "9.499,00" }],
   "ip14Colors": [
-    { "color1": "Azul" },
-    { "color2": "Roxo" },
-    { "color3": "Amarelo" },
-    { "color4": "Meia-Noite" },
-    { "color5": "Estelar" },
-    { "color4": "Vermelho" }
+    { "color": "Azul" },
+    { "color": "Roxo" },
+    { "color": "Amarelo" },
+    { "color": "Meia-Noite" },
+    { "color": "Estelar" },
+    { "color": "Vermelho" }
   ],
   "ip14Price": [{ "price": "7.599,00" }]
 }
