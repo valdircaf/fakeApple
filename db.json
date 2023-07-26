@@ -1,8 +1,4 @@
 {
-  "names": [
-    { "id": "1", "name": "Iphone 14" },
-    { "id": "2", "name": "Iphone 14 Pro" }
-  ],
   "ip14ProColors": [
     { "color1": "Roxo-Profundo" },
     { "color2": "Dourado" },
