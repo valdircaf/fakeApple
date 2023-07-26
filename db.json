@@ -1,9 +1,9 @@
 {
   "ip14ProColors": [
-    { "color1": "Roxo-Profundo" },
-    { "color2": "Dourado" },
-    { "color3": "Prateado" },
-    { "color4": "Preto-Espacial" }
+    { "color1": "Roxo-Profundo", "hex": "#655C6F" },
+    { "color2": "Dourado", "hex": "#F4E8CE" },
+    { "color3": "Prateado", "hex": "#F1F3F2" },
+    { "color4": "Preto-Espacial", "hex": "#43413F" }
   ],
   "ip14ProPrice": [{ "price": "9.499,00" }],
   "ip14Colors": [
