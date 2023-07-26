@@ -1,0 +1,22 @@
+{
+  "names": [
+    { "id": "1", "name": "Iphone 14" },
+    { "id": "2", "name": "Iphone 14 Pro" }
+  ],
+  "ip14ProColors": [
+    { "color1": "Roxo-Profundo" },
+    { "color2": "Dourado" },
+    { "color3": "Prateado" },
+    { "color4": "Preto-Espacial" }
+  ],
+  "ip14ProPrice": [{ "price": "9.499,00" }],
+  "ip14Colors": [
+    { "color1": "Azul" },
+    { "color2": "Roxo" },
+    { "color3": "Amarelo" },
+    { "color4": "Meia-Noite" },
+    { "color5": "Estelar" },
+    { "color4": "Vermelho" }
+  ],
+  "ip14Price": [{ "price": "7.599,00" }]
+}
