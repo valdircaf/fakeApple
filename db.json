@@ -7,12 +7,12 @@
   ],
   "ip14ProPrice": [{ "price": "9.499,00" }],
   "ip14Colors": [
-    { "color": "Azul" },
-    { "color": "Roxo" },
-    { "color": "Amarelo" },
-    { "color": "Meia-Noite" },
-    { "color": "Estelar" },
-    { "color": "Vermelho" }
+    { "color": "Azul", "hex": "#aabbcd" },
+    { "color": "Roxo", "hex": "#e5ddea" },
+    { "color": "Amarelo", "hex": "#fff49a" },
+    { "color": "Meia-Noite", "hex": "#393e46" },
+    { "color": "Estelar", "hex": "#fbf8f3" },
+    { "color": "Vermelho", "hex": "#fd1e3a" }
   ],
   "ip14Price": [{ "price": "7.599,00" }]
 }
