@@ -5,7 +5,6 @@
     { "color": "Prateado", "hex": "#F1F3F2" },
     { "color": "Preto-Espacial", "hex": "#43413F" }
   ],
-  "ip14ProPrice": [{ "price": "9.499,00" }],
   "ip14Colors": [
     { "color": "Azul", "hex": "#aabbcd" },
     { "color": "Roxo", "hex": "#e5ddea" },
@@ -14,5 +13,5 @@
     { "color": "Estelar", "hex": "#fbf8f3" },
     { "color": "Vermelho", "hex": "#fd1e3a" }
   ],
-  "ip14Price": [{ "price": "7.599,00" }]
+  "prices": [{ "ip14Pro": "9.499,00", "ip14": "7.599,00" }]
 }
