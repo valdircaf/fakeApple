@@ -13,5 +13,6 @@
     { "color": "Estelar", "hex": "#fbf8f3" },
     { "color": "Vermelho", "hex": "#fd1e3a" }
   ],
-  "prices": [{ "ip14Pro": "9.499,00", "ip14": "7.599,00" }]
+  "prices": [{ "ip14Pro": "9.499,00", "ip14": "7.599,00" }],
+  "data": []
 }
