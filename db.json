@@ -1,18 +1,17 @@
 {
   "ip14ProColors": [
-    { "color": "Roxo-Profundo", "hex": "#655C6F" },
-    { "color": "Dourado", "hex": "#F4E8CE" },
-    { "color": "Prateado", "hex": "#F1F3F2" },
-    { "color": "Preto-Espacial", "hex": "#43413F" }
+    { "color": "Roxo-Profundo", "hex": "#655C6F", "id": "1" },
+    { "color": "Dourado", "hex": "#F4E8CE", "id": "2" },
+    { "color": "Prateado", "hex": "#F1F3F2", "id": "3" },
+    { "color": "Preto-Espacial", "hex": "#43413F", "id": "4" }
   ],
   "ip14Colors": [
-    { "color": "Azul", "hex": "#aabbcd" },
-    { "color": "Roxo", "hex": "#e5ddea" },
-    { "color": "Amarelo", "hex": "#fff49a" },
-    { "color": "Meia-Noite", "hex": "#393e46" },
-    { "color": "Estelar", "hex": "#fbf8f3" },
-    { "color": "Vermelho", "hex": "#fd1e3a" }
+    { "color": "Azul", "hex": "#aabbcd", "id": "1" },
+    { "color": "Roxo", "hex": "#e5ddea", "id": "2" },
+    { "color": "Amarelo", "hex": "#fff49a", "id": "3" },
+    { "color": "Meia-Noite", "hex": "#393e46", "id": "4" },
+    { "color": "Estelar", "hex": "#fbf8f3", "id": "5" },
+    { "color": "Vermelho", "hex": "#fd1e3a", "id": "6" }
   ],
-  "prices": [{ "ip14Pro": "9.499,00", "ip14": "7.599,00" }],
-  "data": []
+  "prices": [{ "ip14Pro": "9.499,00", "ip14": "7.599,00" }]
 }
